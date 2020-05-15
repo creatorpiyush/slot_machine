@@ -8,7 +8,7 @@
 
 ## Screen-Shots of Game-Play
 ```shell
-![](./ss/1.png)
+![](ss/1.png)
 ```
 # 
 
