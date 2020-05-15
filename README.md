@@ -7,10 +7,10 @@
 ### 🐔 Winner Winner Chicken Dinner 🐔
 
 ## Screen-Shots of Game-Play
-### Player Display
+- ### Player Display
 ![alt text](./ss/1.png)
 
-### For Looser of the Game
+- ### For Looser of the Game
 ![alt text](./ss/4.png)
 
 
