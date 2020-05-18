@@ -1,6 +1,6 @@
 # Slot-Machine-Game
 
-[COME AND TRY YOUR LUCK AT https://ecstatic-mcnulty-369c32.netlify.app](https://ecstatic-mcnulty-369c32.netlify.app)
+[COME AND TRY YOUR LUCK AT https://vigorous-einstein-8c760e.netlify.app](https://vigorous-einstein-8c760e.netlify.app)
 
 
 ### This game is created using emojies 
