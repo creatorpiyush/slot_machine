@@ -6,9 +6,7 @@
 ## For the Winners its - 
 ### 🐔 Winner Winner Chicken Dinner 🐔
 
-```shell
-https://app.netlify.com/sites/ecstatic-mcnulty-369c32/overview
-```
+[COME AND PLAY](https://app.netlify.com/sites/ecstatic-mcnulty-369c32/overview)
 
 ## Screen-Shots of Game-Play
 - ### Player Display
